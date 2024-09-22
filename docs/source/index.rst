@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+XO88 - Nhà Cái Cá Cược Uy Tín, Trụ Sở Tại Philippines
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`XO88 <https://xo88.mov/>`_ là một nhà cái cá cược bóng đá uy tín với trụ sở chính tại Philippines và hoạt động từ năm 2015. Được cấp phép bởi Ủy ban Giám sát Cờ bạc Isle of Man (IOM), XO88 đã xây dựng danh tiếng vững chắc trong lĩnh vực cá cược trực tuyến, đặc biệt tại Việt Nam và Philippines. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Được hỗ trợ bởi đội ngũ chuyên gia và các đối tác hàng đầu trong ngành công nghiệp game và thanh toán trực tuyến, XO88 không ngừng cải tiến để đáp ứng nhu cầu của người chơi, cam kết mang lại sự công bằng, minh bạch và chất lượng cao nhất trong mọi dịch vụ.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 80/3 Đ. Tây Lân 7, Bà Điểm, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0880484999. 
 
-.. toctree::
+Email: info@xo88.mov. 
 
-   usage
-   api
+Website: https://xo88.mov/
+
+#xo88 #nhacaixo88 #trangchuxo88 #dangkyxo88 #linkxo88
